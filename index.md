@@ -32,12 +32,10 @@ Previously, I have led global digital transformations at the enterprise level, f
 ## Selected Publications & Presentations
 
 ### **Peer-Reviewed Journals / Working Papers**
-* **Mardikar, S.** (2025). *Governing the Shift: Transitioning Enterprise Architecture to Generative AI Systems.* (Working Paper).
-* **Mardikar, S.**, et al. *Leveraging Graph Neural Networks for Non-Linear Fraud Detection in Financial Ecosystems.* (Submitted for Review).
+
 
 ### **Speaking Engagements & Conferences**
-* **Global AI Summit** | *Topic: Resilience in the Age of Automated Threats* | 2024
-* **SSU Research Symposium** | *Topic: Federated Learning in Privacy-First Environments* | 2023
+
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 
