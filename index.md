@@ -16,8 +16,7 @@ layout: default
       <p style="margin-top: 20px;">
         <a href="https://www.linkedin.com/in/mardikar/" target="_blank">LinkedIn</a> | 
         <a href="mailto:your-email@domain.com">Email</a> | 
-        <a href="assets/cv.pdf">Download CV</a>
-      </p>
+        </p>
     </td>
   </tr>
 </table>
