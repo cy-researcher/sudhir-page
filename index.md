@@ -16,7 +16,7 @@ title: Home
       </p>
     </td>
     <td style="border: none; vertical-align: top; width: 160px;">
-      <img src="assets/images/headshot.jpg" width="160" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="Sudhir Mardikar">
+      <img src="assets/images/sudhir5.jpg" width="160" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="Sudhir Mardikar">
     </td>
   </tr>
 </table>

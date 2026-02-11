@@ -1,9 +1,4 @@
-title: Sudhir Mardikar
-description: Scholar-Practitioner | PhD Researcher
-remote_theme: pages-themes/minimal@v0.2.0
-google_analytics: 
-show_downloads: false
-show_downloads: false
-google_analytics: 
 theme: jekyll-theme-minimal
-# This removes the "View on GitHub" buttons in some themes
+title: Sudhir Mardikar
+description: PhD Researcher | AI Governance
+show_downloads: false
