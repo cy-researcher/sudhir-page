@@ -6,8 +6,7 @@ title: Home
 <table style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; padding-right: 25px;">
-      <h1 style="margin-top: 0; font-size: 2.2em;">Sudhir Mardikar</h1>
-      <p>I am a <strong>Scholar-Practitioner</strong> and PhD researcher at <strong>Sri Sri University</strong>. My work bridges 25 years of global enterprise leadership with doctoral-level research in <strong>AI Governance</strong> and <strong>Cyber Resilience</strong>.</p>
+    <p>I am a <strong>Scholar-Practitioner</strong> and PhD researcher at <strong>Sri Sri University</strong>. My work bridges 25 years of global enterprise leadership with doctoral-level research in <strong>AI Governance</strong> and <strong>Cyber Resilience</strong>.</p>
       <p>Currently, my research focuses on navigating the transition from traditional architecture to Generative AI systems. I am particularly interested in <strong>Federated Learning</strong> for privacy-preserving machine learning and leveraging <strong>Graph Neural Networks (GNN)</strong> for advanced financial fraud detection.</p>
       <p>
         <a href="https://www.linkedin.com/in/mardikar/">LinkedIn</a> | 
