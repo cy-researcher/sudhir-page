@@ -24,6 +24,6 @@ layout: default
 <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 
 ## Research Interests
-I am currently investigating the application of **Graph Neural Networks (GNN)** to identify complex, non-linear patterns in transactional data for financial fraud detection. 
+I am currently researching the application of **Graph Neural Networks (GNN)** to identify complex, non-linear patterns in transactional data for financial fraud detection. 
 
 Previously, I have led global digital transformations at the enterprise level, focusing on hardening organizational infrastructure against automated threats.
