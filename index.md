@@ -1,15 +1,9 @@
----
-layout: default
-title: Home
----
-
 # Sudhir Mardikar
-## Scholar-Practitioner | PhD Researcher
 
-Bridging the gap between 25 years of global enterprise leadership and doctoral-level research in AI Governance and Cyber Resilience.
+I am a scholar-practitioner and PhD researcher at Sri Sri University. My work bridges 25 years of global enterprise leadership with doctoral-level research in **AI Governance** and **Cyber Resilience**.
 
-### Research Focus
-* **Financial Fraud Detection**: Leveraging Graph Neural Networks (GNN).
-* **Privacy-Preserving AI**: Advancing Federated Learning (FL) frameworks.
+Currently, my research focuses on navigating the transition from traditional architecture to Generative AI systems. I am particularly interested in **Federated Learning** for privacy-preserving machine learning and leveraging **Graph Neural Networks (GNN)** for advanced financial fraud detection.
 
-[LinkedIn](https://www.linkedin.com/in/mardikar/) | [Email](mailto:your-email@example.com)
+Previously, I have led global digital transformations at the enterprise level, focusing on hardening organizational infrastructure against automated threats while maintaining rigorous governance standards.
+
+[LinkedIn](https://www.linkedin.com/in/mardikar/) | [Email](mailto:your-email@example.com) | [CV](/assets/cv.pdf)
