@@ -1,20 +1,30 @@
 ---
 ---
+// 1. Import professional fonts from Google
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lora:ital,wght@0,700;1,400&display=swap');
+
 @import "{{ site.theme }}";
 
-// This hides the sidebar entirely so your index content takes the full width
-header {
+// 2. Apply Serif font to your Name and Headers
+h1, h2, h3, h4 {
+    font-family: 'Lora', serif !important;
+    color: #2c3e50; // Deep professional navy
+}
+
+// 3. Apply clean Sans-Serif font to the Body text
+body, p, td, li {
+    font-family: 'Inter', sans-serif !important;
+    color: #333333;
+    line-height: 1.6; // Better readability for research text
+}
+
+// 4. Clean up the theme (Hide sidebar/footer as discussed)
+header, footer {
     display: none !important;
 }
 
-// This hides the footer branding
-footer {
-    display: none !important;
-}
-
-// This expands the content area so it's not squished to the right
 .wrapper {
-    max-width: 900px;
+    max-width: 850px; // Slightly narrower for a more "published" feel
     margin: 0 auto;
 }
 
