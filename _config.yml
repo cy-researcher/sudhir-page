@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: Sudhir Mardikar
-description: PhD Researcher | AI Governance
 show_downloads: false
+# We are leaving title and description blank so they don't appear in the sidebar
+title: 
+description:

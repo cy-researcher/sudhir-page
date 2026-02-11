@@ -2,22 +2,23 @@
 ---
 @import "{{ site.theme }}";
 
-// 1. Change the color of your Name (The Sidebar Title)
-.header h1 a {
-    color: #2c3e50; // Replace with your preferred Hex color (e.g., #007bff for Blue)
+// This hides the sidebar entirely so your index content takes the full width
+header {
+    display: none !important;
 }
 
-// 2. Change the color of the Description (The text under your name)
-.header p {
-    color: #7f8c8d;
-}
-
-// 3. REMOVE the "Maintained by" and "Hosted on GitHub" footer
+// This hides the footer branding
 footer {
     display: none !important;
 }
 
-// 4. (Optional) Center the sidebar content if you prefer
-.header {
-    text-align: left; 
+// This expands the content area so it's not squished to the right
+.wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+section {
+    width: 100% !important;
+    float: none !important;
 }
