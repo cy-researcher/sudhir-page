@@ -55,3 +55,6 @@ Previously, I have led global digital transformations at the enterprise level, f
   
   <button type="submit" style="background-color: #2c3e50; color: white; padding: 12px 30px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; transition: background 0.3s ease;">Send Message</button>
 </form>
+
+<script data-goatcounter="https://smardikar.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
