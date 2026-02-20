@@ -15,8 +15,7 @@ layout: default
       <p style="line-height: 1.6;">Currently, my research focuses on navigating the transition from traditional architecture to Generative AI systems. I am particularly interested in <strong>researching</strong> the application of <strong>Federated Learning</strong> for privacy-preserving machine learning and leveraging <strong>Graph Neural Networks (GNN)</strong> for advanced financial fraud detection.</p>
       <p style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/mardikar/" target="_blank" style="text-decoration: none; color: #2c3e50; font-weight: bold;">LinkedIn</a> | 
-  <a href="assets/cv.pdf" style="text-decoration: none; color: #2c3e50; font-weight: bold;">Download CV</a> | 
-  <a href="/insights" style="text-decoration: none; color: #2c3e50; font-weight: bold;">Read Insights</a>
+    <a href="/insights" style="text-decoration: none; color: #2c3e50; font-weight: bold;">Read Insights</a>
 </p>
     </td>
   </tr>
