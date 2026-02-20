@@ -59,3 +59,9 @@ Previously, I have led global digital transformations at the enterprise level, f
 
 <script data-goatcounter="https://smardikar.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+---
+
+<div style="font-size: 0.8em; color: #7f8c8d; font-style: italic; margin-top: 60px; border-top: 1px solid #eee; padding-top: 20px; line-height: 1.5;">
+  <strong>Disclaimer:</strong> The insights, research, and opinions expressed on this site are entirely my own. They are intended for scholarly discussion and professional advisory purposes and do not represent the views of any past or present affiliated organizations.
+</div>
